@@ -12,8 +12,10 @@ Prepared by Nathan Weber.
 
 ## Reference Guides
 
-Resume accomplishment estimates and a downloadable handout will be
-added here.
+- [Estimating Resume Accomplishments — PDF handout (v1)](resume-accomplishment-estimates-howto_v1.pdf)
+
+  Simple formulas, labor-cost benchmarks, worked examples, and
+  guidance for clearly labeling estimates.
 
 ## Use and Academic Integrity
 
